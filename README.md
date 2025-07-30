@@ -1,7 +1,6 @@
-# (UPDATE IN README.md) Project Title
+# Top 5000 Movie Recommendation System 
 
-(UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
+My group and I have built a movie recommendation system that utilizes NLP and Sentiment Analysis to recommend the top 3 movies based on user input. The main inputs the user gave were a release date, the genre, the tone, and a short description of what they wanted to watch. We applied skills such as vectorization, k-means clustering, sentiment scoring, and data visualization using PCA. We did this because we wanted to provide more accurate movie predictions and limit the number of streaming services one would own. This project was done during the AI4ALL ignite program
 
 *EXAMPLE:*
 *Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
